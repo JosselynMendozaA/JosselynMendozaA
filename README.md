@@ -6,7 +6,7 @@
   <h1 align= "center" >Hi 👋, I'm Josselyn Mendoza </h1>
   <h3 align= "center"> A passionate Inteligencia Artificial y web developer from Ecuador </h3>
 
-<p align="center"> <a href="https://twitter.com/JosselynMendo?t=Kv2PrbCzHZRCxrf8odg-Lg&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/JosselynMendo?logo=twitter&style=para-la-insignia" alt="JosselynMendo" /></a> </p>
+
 
 </div>
 
