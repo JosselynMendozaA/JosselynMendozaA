@@ -33,7 +33,7 @@ height="40"/>
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmofbPpXtMdC8VpNeF0Svb1eUt3NEMDLv2nkUz9sFYdi8awB364GY0009ECeL17_OBH0k&usqp=CAU" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -68,7 +68,7 @@ height="40"/>
 <p align="left"> 
        <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
      <a href="https://numpy.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JRr92k_oDy42tMe3RPwfU0r_5Rk_S2jwlU2WphT94jFMCRCbjASEZ7j1wbD2CPOzx6w&usqp=CAU" alt="express" width="44" height="44" / > </a>
-    <a href="https://matplotlib.org/" target="_blank"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="express" width="44" height="44"/> </a> 
+    <a href="https://matplotlib.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNW4FYu8aIfv9vdr-uK7lxMsd79VsbmuJvJQ&s" alt="express" width="44" height="44"/> </a> 
     <a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" /> </a> 
     <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="express" width="44" height="44"/> </a> 
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
